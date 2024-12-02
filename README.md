@@ -1,1 +1,1 @@
-# Calculate_Rate
+合并数据完备率统计，计算Nas和DB上数据非空率
